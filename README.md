@@ -1,6 +1,8 @@
 # CS61A-2025-Summer
 The repository that stores all the course materials of the UCB CS61A course
 
+**原课程网站** [CS61A](cs61a.org) 
+
 **部分作业已经完成，自行删除就行**
 
 [CS61A 熟肉网课链接](https://www.bilibili.com/video/BV1sy411z7nA/?spm_id_from=333.337.search-card.all.click)
