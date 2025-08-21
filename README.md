@@ -2,7 +2,7 @@
 The repository that stores all the course materials of the UCB CS61A course
 [CS61A 熟肉网课链接](https://www.bilibili.com/video/BV1sy411z7nA/?spm_id_from=333.337.search-card.all.click)
 
-**project的文件较大，压缩包在releases中可见**
+**project的文件较大，压缩包在[releases](https://github.com/Sylgrk/CS61A-2025-Summer/releases)中可见**
 
 ## 注意事项
 - 确保您的系统已安装 Python，CS61A 主要使用 Python 3。
